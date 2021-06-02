@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(88, 185, 241);
+}
+h1 {
+  color: rgb(21, 10, 121);
+  font-size: 40px;
+}
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7,
+#b8,
+#b9 {
+  width: 80px;
+  height: 52px;
+  margin: auto;
+  border: 1px solid gray;
+  border-radius: 6px;
+  font-size: 30px;
+  text-align: center;
+}
+
+#but {
+  box-sizing: border-box;
+  width: 95px;
+  height: 40px;
+  border: 1px solid rgb(10, 64, 117);
+  margin: auto;
+  border-radius: 4px;
+  font-family: Verdana, sans-serif;
+  background-color: dodgerblue;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#print {
+  font-family: Verdana, sans-serif;
+  color: dodgerblue;
+  font-size: 20px;
+}
+
+#main {
+  text-align: center;
+}
+
+#ins {
+  font-family: Tahoma, sans-serif;
+  color: rgb(24, 63, 102);
+  font-size: 17px;
+}
